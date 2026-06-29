@@ -1,6 +1,4 @@
-# Repo Smith
-
-**Never lose your GitHub repositories again.**
+# Never lose your GitHub repositories again
 
 schedule backups · encrypted archives · per-workspace isolation.
 
